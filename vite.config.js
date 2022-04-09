@@ -1,3 +1,3 @@
 export default {
-  base: '/not-real-google-keep/',
+  base: '/sticky-note/',
 };
